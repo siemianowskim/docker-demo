@@ -1,4 +1,4 @@
-MAINTAINER Michal
+MAINTAINER MichalS
 FROM node:4.6
 WORKDIR /app
 ADD . /app
