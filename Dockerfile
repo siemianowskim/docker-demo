@@ -1,4 +1,5 @@
 FROM node:4.6
+MAINTAINER Michal 
 WORKDIR /app
 ADD . /app
 RUN npm install
